@@ -186,7 +186,7 @@ const blacklist = [
     "wiseass",
     "wiseasses",
     "wop"
-
+    "sex"
 ];
 
 // some words above may be contained in normal, non-offensive ones
